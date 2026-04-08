@@ -1,10 +1,5 @@
 # cKnight107
 
-<p align="center">
-  <img src="https://readme.u14.app/api/github/stats?userId=eXVduY2UIyhxHUDGo6lxBAwW5fqmd1Lz" alt="cKnight107 GitHub 统计" width="48%" />
-  <img src="https://readme.u14.app/api/github/top-langs?userId=eXVduY2UIyhxHUDGo6lxBAwW5fqmd1Lz" alt="cKnight107 主要语言" width="48%" />
-</p>
-
 ## 关于我
 
 cKnight107 专注于 AI 工程化实践的开发者，主要活跃于 TypeScript、Java 与 Python 生态。  
